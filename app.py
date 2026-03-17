@@ -308,6 +308,33 @@ Higher values usually reflect stronger school attachment.
 **Teacher support** measures students’ perception of how often teachers provide support in mathematics lessons.
 
 It reflects perceived instructional support, not an objective measure of teacher quality.
+""",
+
+    "OECD 🏛️": """
+**OECD** (*Organisation for Economic Co-operation and Development*) is an international organisation that compares public policies across countries.
+
+In education, it provides:
+- international benchmarks
+- cross-country comparisons
+- policy insights
+
+It helps governments understand how their education systems perform globally.
+""",
+
+    "PISA 📘": """
+**PISA** (*Programme for International Student Assessment*) is an OECD study conducted every 3 years.
+
+It evaluates 15-year-old students in:
+- mathematics
+- reading
+- science
+
+Key facts:
+- OECD average ≈ 500
+- 100 points ≈ 3 years of schooling
+- ~95 participating countries
+
+PISA focuses on real-world skills, not just school knowledge.
 """
 }
 # =========================
